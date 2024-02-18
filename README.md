@@ -11,6 +11,17 @@ by Casey Layne Hyne
 * [License](#license)
 * [Links](#links)
 
+## Screenshots 
+
+![screenshot 1](https://github.com/Hyne-OS1/Note-Taker/assets/146906218/b2ecda56-11d9-4f7c-ba7b-a694a1bf54a6)
+
+![screenshot 2](https://github.com/Hyne-OS1/Note-Taker/assets/146906218/e9d0ab77-9f0a-42b4-83c1-2f73012164e8)
+
+![screenshot 3](https://github.com/Hyne-OS1/Note-Taker/assets/146906218/ec3bda69-da3e-4b0e-b196-be593507b0bf)
+
+![screenshot 4](https://github.com/Hyne-OS1/Note-Taker/assets/146906218/624c4f7a-7dde-4910-8ff0-1c38e3540147)
+
+
 ## Description
 * The Construction of this project is based around the use of Node.js with the added inquirers (npm @8.2.4) and (npm uuid). Under the initialization of "server.js" 
 in your intergrated terminal the user will be granted a local host link to the working live application. This application provides users a live host "Note-Taker" program where user inputs are entered and saved for future use. All code base follows semantic structuring for other developers to follow and/or use for cross referencing.
